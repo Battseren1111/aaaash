@@ -1,0 +1,6 @@
+module Pods_Work2 {
+  umbrella header "Pods-Work2-umbrella.h"
+
+  export *
+  module * { export * }
+}
