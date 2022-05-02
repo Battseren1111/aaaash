@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Text, StyleSheet, TextInput} from 'react-native';
+import {View, Text, StyleSheet, TextInput} from 'react-native'; 
 
 import ProductCardBag from '../../components/ProductCard/ProductCardBag';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
